@@ -20,7 +20,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 ## Live Demo
 
-Check out the live version of the portfolio: [Portfolio Link](#) <!-- Add your live link here -->
+Check out the live version of the portfolio: [Portfolio Link](https://vakalayamini.github.io/Personal_Portfolio_Website/) <!-- Add your live link here -->
 
 ## Setup Instructions
 
